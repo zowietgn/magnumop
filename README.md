@@ -1,1 +1,4 @@
 # magnumop
+
+
+project for inc
